@@ -1,0 +1,3 @@
+[submodule "amfs"]
+	path = amfs
+	url = git@github.com:AM-OperatingSystem/amfs.git
