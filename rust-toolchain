@@ -1,1 +1,4 @@
-nightly-2021-06-15
+[toolchain]
+channel = "nightly"
+components = ["llvm-tools-preview","rls"]
+profile = "default"
