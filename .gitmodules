@@ -1,3 +1,6 @@
 [submodule "amfs"]
 	path = amfs
 	url = git@github.com:AM-OperatingSystem/amfs.git
+[submodule "amos-std"]
+	path = amos-std
+	url = git@github.com:AM-OperatingSystem/amos-std.git
