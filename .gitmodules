@@ -4,3 +4,6 @@
 [submodule "amos-std"]
 	path = amos-std
 	url = git@github.com:AM-OperatingSystem/amos-std.git
+[submodule "amos-lints"]
+	path = amos-lints
+	url = git@github.com:AM-OperatingSystem/amos-lints.git
